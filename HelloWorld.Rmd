@@ -1,14 +1,3 @@
----
-title: "HelloWorld"
-author: "Guillermina"
-date: "22/6/2017"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 
 ## This is a markdown file to the document HelloWorld
 
