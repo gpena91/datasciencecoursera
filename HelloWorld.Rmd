@@ -4,10 +4,13 @@ author: "Guillermina"
 date: "22/6/2017"
 output: html_document
 ---
-##This is a markdown file to the document HelloWorld
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+
+##This is a markdown file to the document HelloWorld
 
 ## R Markdown
 
